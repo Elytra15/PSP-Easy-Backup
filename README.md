@@ -105,8 +105,6 @@ Local settings, linked PSP profiles, and cached artwork are stored here:
 ~/Library/Application Support/PSP Easy Backup/
 ```
 
-That path is correct for the current app. **Reset App Data** clears local app data, but does not delete your backup folders.
-
 ## 🛡️ Privacy
 
 - No account required.
