@@ -4,15 +4,12 @@ PSP Easy Backup is a macOS app for backing up PSP Memory Sticks with a clean vis
 
 > macOS 14 or newer. Distributed as a signed and notarized `.dmg`.
 
-<<<<<<< HEAD
 <p>
   <a href="https://github.com/Elytra15/PSP-Easy-Backup/releases/tag/v1.0">
     <img alt="Download signed DMG" src="https://img.shields.io/badge/Download-signed%20DMG-0A84FF?style=for-the-badge&logo=apple">
   </a>
 </p>
 
-=======
->>>>>>> origin/main
 ## ✨ Features
 
 - 🔍 Auto-detects mounted PSPs and Memory Sticks with a `PSP` folder.
@@ -44,11 +41,7 @@ PSP Easy Backup is a macOS app for backing up PSP Memory Sticks with a clean vis
 
 ## 🚀 Install
 
-<<<<<<< HEAD
-1. If you just want the app, use the **Download signed DMG** button above or open [`Download`](Download/) and download `PSP Easy Backup.dmg`.
-=======
-1. Download the latest `PSP Easy Backup.dmg` from GitHub Releases.
->>>>>>> origin/main
+1. If you just want the app, use the **Download signed DMG** button above or open [`Download`](Download/) and download `PSP-Easy-Backup.dmg`.
 2. Open the `.dmg`.
 3. Drag **PSP Easy Backup.app** into the **Applications** folder.
 4. Open the app from Applications.
@@ -57,10 +50,9 @@ PSP Easy Backup is a macOS app for backing up PSP Memory Sticks with a clean vis
 
 The app is signed and notarized for macOS, so there should be no unsigned-app warning.
 
-<<<<<<< HEAD
 ## 🔄 Update
 
-1. Download the latest `PSP Easy Backup.dmg`.
+1. Download the latest `PSP-Easy-Backup.dmg`.
 2. Open the `.dmg`.
 3. Drag **PSP Easy Backup.app** into the **Applications** folder.
 4. When macOS asks, choose **Replace**.
@@ -74,8 +66,6 @@ Your linked PSP profiles, settings, cached artwork, and chosen backup folders ar
 3. Replace the placeholder bundle identifier with your own reverse-DNS identifier for distribution.
 4. Build and run the **PSP Easy Backup** scheme.
 
-=======
->>>>>>> origin/main
 ## 🕹️ How To Use
 
 1. Launch **PSP Easy Backup**.
@@ -137,11 +127,8 @@ Local settings, linked PSP profiles, and cached artwork are stored here:
 ~/Library/Application Support/PSP Easy Backup/
 ```
 
-<<<<<<< HEAD
 That path is correct for the current app. **Reset App Data** clears local app data, but does not delete your backup folders.
 
-=======
->>>>>>> origin/main
 ## 🛡️ Privacy
 
 - No account required.
@@ -153,10 +140,7 @@ That path is correct for the current app. **Reset App Data** clears local app da
 
 - macOS only.
 - The PSP or Memory Stick must mount as a normal volume with a `PSP` folder.
-<<<<<<< HEAD
 
 ## 📄 License
 
 MIT License. See [LICENSE](LICENSE).
-=======
->>>>>>> origin/main
