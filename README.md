@@ -5,7 +5,7 @@ PSP Easy Backup is a macOS app for backing up PSP Memory Sticks with a clean vis
 > macOS 14 or newer. Distributed as a signed and notarized `.dmg`.
 
 <p>
-  <a href="https://github.com/Elytra15/PSP-Easy-Backup/releases/tag/v1.0">
+  <a href="https://github.com/Elytra15/PSP-Easy-Backup/releases/tag/v1.1">
     <img alt="Download signed DMG" src="https://img.shields.io/badge/Download-signed%20DMG-0A84FF?style=for-the-badge&logo=apple">
   </a>
 </p>
@@ -41,7 +41,7 @@ PSP Easy Backup is a macOS app for backing up PSP Memory Sticks with a clean vis
 
 ## 🚀 Install
 
-1. If you just want the app, use the **Download signed DMG** button above or open [`Download`](Download/) and download `PSP-Easy-Backup.dmg`.
+1. If you just want the app, use the **Download signed DMG** button above or open [`Download`](https://github.com/Elytra15/PSP-Easy-Backup/releases/tag/v1.1) and download `PSP-Easy-Backup.dmg`.
 2. Open the `.dmg`.
 3. Drag **PSP Easy Backup.app** into the **Applications** folder.
 4. Open the app from Applications.
